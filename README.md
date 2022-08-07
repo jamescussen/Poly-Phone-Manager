@@ -2,6 +2,7 @@
 
 Poly Phone Manager is desiged to work with Poly VVX, CCX and Trio phones connected to Skype for Business and Teams SIP Gateway. This version of the tool has evolved from the Polycom VVX Phone Manager tool, hence that the inital release in this repository is version 4.00. The previous version of this tool is still available over there for the time being: https://github.com/jamescussen/skype-for-business-lync-polycom-vvx-manager.  
 
+![Image](https://github.com/jamescussen/Poly-Phone-Manager/raw/main/PolyPhoneManager4.00sm.png)
 
 **Features:**
 
