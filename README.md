@@ -12,6 +12,6 @@ Poly Phone Manager is desiged to work with Poly VVX, CCX and Trio phones connect
 - Removed Skype for Business online connectivity because Skype for Business Online has been deprecated.
 - Updated to work with PowerShell 7+
 
-For more details about this tool refer to the following blog post: https://www.myteamslab.com/2022/08/poly-phone-manager-40.html
+For more details about this tool refer to the following blog post: https://www.myteamslab.com/2022/08/poly-phone-manager-4.html
 
 
