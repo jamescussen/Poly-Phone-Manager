@@ -7,7 +7,6 @@ For more details about this tool refer to the following blog post: https://www.m
 ![Image](https://github.com/jamescussen/Poly-Phone-Manager/raw/main/PolyPhoneManager4.00sm.png)
 
 **Version: 4.00**
-- Teams SIP Gateway / Support for CCX / PowerShell 7
 - Now supports Poly phones signed into Teams SIP Gateway
 - Now works with Poly CCX Phones!
 - You now don't need access to Skype for Business PowerShell to discover devices with the Network Discovery method. From any Windows PC you can discover devices.
